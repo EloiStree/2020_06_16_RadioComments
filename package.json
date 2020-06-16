@@ -7,6 +7,13 @@
   "keywords":       ["Script","Tool"],                       
   "dependencies":{  },     
   "relatedPackages":{  }, 
+  "samples": [
+    {
+      "displayName": "Basic Demo of the Radio Comments",
+      "description": "A basic demo of how work radio comments",
+      "path": "Samples/BasicDemo"
+    }
+  ]
   "author" : {
         "name":"Eloi Stree",
         "mail":"lovepatato@gmail.com",
