@@ -1,0 +1,17 @@
+{
+    "name": "be.eloistree.radiocommenteditor.Editor",
+    "references": [
+        "GUID:a31f37fc9e554d049b98befee5c03dc4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
