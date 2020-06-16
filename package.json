@@ -1,0 +1,16 @@
+{                                                                                
+  "name":           "be.eloistree.radiocomments",                              
+  "displayName":    "Radio comments",                        
+  "version":        "0.0.1",                         
+  "unity":          "2018.1",                        
+  "description":    "Tools to audio credit and comments objects in your Virtual reality project.",                         
+  "keywords":       ["Script","Tool"],                       
+  "dependencies":{  },     
+  "relatedPackages":{  }, 
+  "author" : {
+        "name":"Eloi Stree",
+        "mail":"lovepatato@gmail.com",
+        "url":"https://youtu.be/5XRiGi1eofQ"
+    },    
+        "category": "Script"                   
+} 
