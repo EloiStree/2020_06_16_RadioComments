@@ -5,7 +5,8 @@
   "unity":          "2018.1",                        
   "description":    "Tools to audio credit and comments objects in your Virtual reality project.",                         
   "keywords":       ["Script","Tool"],                       
-  "dependencies":{  },     
+  "dependencies":{  
+  },     
   "relatedPackages":{  }, 
   "samples": [
     {
